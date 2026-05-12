@@ -11,6 +11,8 @@
 Assets/Private/*
 !Assets/Private/.git
 
+Assets/Private 1/
+
 Assets/Samples/
 Assets/TutorialInfo/
 
