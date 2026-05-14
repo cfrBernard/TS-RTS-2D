@@ -8,10 +8,9 @@
 [Uu]ser[Ss]ettings/
 
 # Ignore the folder which contains assets that cannot be publicly distributed. 
+# ----------> github.com/cfrBernard/OriginRepo_PrivateAssets.git <----------
 Assets/Private/*
 !Assets/Private/.git
-
-Assets/Private 1/
 
 Assets/Samples/
 Assets/TutorialInfo/
